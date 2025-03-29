@@ -1,6 +1,8 @@
 
+[:arrow_left Back to profile](./README.md)
+
 ---
-# Git Commands Reference
+# Git Commands Quick Reference
 
 This document is a personal reference of Git commands I've learned and used, intended as a quick guide for common operations and useful tips and tools.
 
@@ -38,7 +40,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git commit -m "Commit message"` - Commit the staged changes to repo. 
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -60,7 +62,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git show <diff_index_hash>` - Show original file being compared in diff.
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -88,7 +90,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git reflog` - Show a history of where HEAD has been, effectively keeping track of all operations on the commit history. Can be used with `git reset` or `git cherry-pick` to "recover" a discarded commit.
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -116,7 +118,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git checkout <commit_hash>` - Move the HEAD to the specified commit (detached mode).
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -136,7 +138,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git cherry-pick <commit_hash>` - Copy the specified commit and append it to the HEAD of current branch.
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -162,7 +164,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git checkout --track <remote_branch>` - Set up local branch to track remote branch (previously fetched).
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -182,7 +184,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git config --local|--global|--system --remove-section <section>` - Remove the specified section at the specified level.
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -196,7 +198,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git tag -a -m <tag_name> <message>` - Create an annotated tag for the current commit in the current branch.
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -216,7 +218,7 @@ This document is a personal reference of Git commands I've learned and used, int
 
 `git show-ref <branch_name>` - List all tracked branches that have the specified branch name in their names.
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -237,10 +239,11 @@ Example:
 ```
 Add error handling for API failures
 
-Refactors the request handler to catch timeouts and HTTP 500 errors. Logs all failures to Sentry for tracking. Related to #245.
+Refactors the request handler to catch timeouts and HTTP 500 errors.
+Logs all failures to Sentry for tracking. Related to #245.
 ```
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
 
 ---
 
@@ -255,4 +258,4 @@ Refactors the request handler to catch timeouts and HTTP 500 errors. Logs all fa
     - [On commit messages](https://who-t.blogspot.com/2009/12/on-commit-messages.html)
     - [How To Write a Git Commit Message](https://cbea.ms/git-commit/)
 
-[Back to top](#index)
+[:arrow_up_small Back to top](#git-commands-quick-reference)
