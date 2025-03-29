@@ -72,7 +72,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ### 🧰 Background Snapshot
 
-- 15+ years in IT with on-prem, bare-metal and virtualized environments
+- 15+ years in IT working with on-prem, bare-metal, and virtualized environments
 - Experience with Linux systems, VMware, servers, L2 networking, and storage (both hands-on and in solution design)
 - Caught the bug of Frontend Development and ended up working professionally with React and Vitest for a year 🤷‍♂️🤹‍♂️
 - Most recently worked on data migrations, scripting in Python, and leveraging APIs at a SaaS company in 🇺🇸
