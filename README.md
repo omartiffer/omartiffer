@@ -71,7 +71,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-### 🧰 Background Snapshot
+## 🧰 Background Snapshot
 
 - 10+ years in IT working with on-prem, virtualized environments
 - Experience with Linux systems, networking, VMware, and storage (in both hands-on and design roles)
@@ -80,7 +80,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-### 🚀 Goals
+## 🚀 Goals
 
 - Become a **Cloud Infrastructure Engineer** with expertise in automation and cloud-native tooling
 - Progressively build skills in **DevOps**
@@ -89,14 +89,14 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Let’s Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oatiffer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oatiffer)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oatiffer&show_icons=true&theme=github_dark)
 
