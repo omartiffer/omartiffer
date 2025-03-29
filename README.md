@@ -1,22 +1,22 @@
-# 👋 Hi, I’m Omar Tiffer
+# 👋 Hi, I’m Omar
 
-I'm an experienced IT professional with a strong background in infrastructure, systems administration, and virtualization. I'm currently transitioning into **Cloud Engineering** and **DevOps**, focusing on building modern, scalable, and automated infrastructure.
+I'm an experienced IT professional with a solid background in infrastructure, systems administration, and virtualization. I'm now transitioning into **Cloud Engineering** and **DevOps**, with a focus on building modern, scalable, and automated infrastructure.
 
 ---
 
 ### 🌱 What I’m Working On
 
-- Studying for the **AWS Solutions Architect Associate** certification
+- Preparing for the **AWS Solutions Architect Associate** certification
 - Going deeper with **Git** - [Git commands quick reference](./git-quick-reference.md)
 - Exploring **Astro** to update my (very outdated) personal website
-- Practicing cloud infrastructure patterns through hands-on labs and projects
-- Strengthening my scripting and automation skills with **Python** and **Bash**
+- Practicing cloud infrastructure patterns through hands-on labs and small projects
+- Sharpening my scripting and automation skills with **Python** and **Bash**
 
 ---
 
 ### 🧰 Tech Stack
 
-Here’s a quick overview of technologies I've worked with, including what I’ve used professionally and what I’m currently learning.
+Here’s a quick overview of technologies I've worked with, including what I’ve used professionally, what I’m currently learning, and tech I've explored out of curiosity or just for fun.
 
 #### ☁️ Cloud & Infrastructure
 
@@ -72,10 +72,10 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ### 🧰 Background Snapshot
 
-- 10+ years in IT working with on-prem, virtualized environments
-- Experience with Linux systems, networking, VMware, and storage (in both hands-on and design roles)
-- Even caught the fever of FrontEnd Development and landed a job working with React, Tailwind, and Vitest 🤷‍♂️ 🤹‍♂️
-- Recently worked in data migrations and scripting with APIs and Python for a SaaS company in 🇺🇸
+- 15+ years in IT with on-prem, bare-metal and virtualized environments
+- Experience with Linux systems, VMware, servers, L2 networking, and storage (both hands-on and in solution design)
+- Caught the bug of Frontend Development and ended up working professionally with React and Vitest for a year 🤷‍♂️🤹‍♂️
+- Most recently worked on data migrations, scripting in Python, and leveraging APIs at a SaaS company in 🇺🇸
 
 ---
 
