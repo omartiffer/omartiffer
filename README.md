@@ -4,7 +4,7 @@ I'm an experienced IT professional with a strong background in infrastructure, s
 
 ---
 
-## 🌱 What I’m Working On
+### 🌱 What I’m Working On
 
 - Studying for the **AWS Solutions Architect Associate** certification
 - Going deeper with **Git** - [Git commands quick reference](./git-quick-reference.md)
@@ -14,11 +14,11 @@ I'm an experienced IT professional with a strong background in infrastructure, s
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 Here’s a quick overview of technologies I've worked with, including what I’ve used professionally and what I’m currently learning.
 
-### ☁️ Cloud & Infrastructure
+#### ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-Learning-lightgreen?style=flat&logo=amazonwebservices&logoColor=orange)
 ![Terraform](https://img.shields.io/badge/Terraform-Learning-lightgreen?style=flat&logo=terraform&logoColor=purple)
@@ -29,19 +29,19 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![F5](https://img.shields.io/badge/F5%20Networks-Load%20Balancing%20Experience-E60027?style=flat&logo=f5&logoColor=white)
 
 
-### 🛠 Automation & DevOps
+#### 🛠 Automation & DevOps
 
 ![Python](https://img.shields.io/badge/Python-Used%20for%20Scripting-blue?style=flat&logo=python&logoColor=3776AB)
 ![Docker](https://img.shields.io/badge/Docker-Learning-lightgreen?style=flat&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learning-lightgreen?style=flat&logo=githubactions&logoColor=2088FF)
 ![Git](https://img.shields.io/badge/Git-Daily%20Use-pink?style=flat&logo=git&logoColor=F05032)
 
-### 🐧 OS & Tools
+#### 🐧 OS & Tools
 
 ![Ubuntu](https://img.shields.io/badge/Linux-Primary%20OS-E95420?style=flat&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Daily%20Use-121011?style=flat&logo=gnubash&logoColor=white)
 
-### 🎨 Frontend
+#### 🎨 Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Some%20Experience-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Some%20Experience-3178C6?style=flat&logo=typescript&logoColor=blue)
@@ -53,7 +53,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![Sass](https://img.shields.io/badge/Sass-Familiar-CC6699?style=flat&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-Familiar-0769AD?style=flat&logo=jquery&logoColor=white)
 
-### 🔍 Things I've tinkered with (I'm curious)
+#### 🔍 Things I've tinkered with (I'm curious)
 
 ![Node.js](https://img.shields.io/badge/Node.js--339933?style=flat&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express--000000?style=flat&logo=express&logoColor=white)
@@ -68,10 +68,9 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![Jenkins](https://img.shields.io/badge/Jenkins--D24939?style=flat&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman--gray?style=flat&logo=postman&logoColor=FF6C37)
 
-
 ---
 
-## 🧰 Background Snapshot
+### 🧰 Background Snapshot
 
 - 10+ years in IT working with on-prem, virtualized environments
 - Experience with Linux systems, networking, VMware, and storage (in both hands-on and design roles)
@@ -80,7 +79,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-## 🚀 Goals
+### 🚀 Goals
 
 - Become a **Cloud Infrastructure Engineer** with expertise in automation and cloud-native tooling
 - Progressively build skills in **DevOps**
@@ -89,14 +88,14 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-## 📫 Let’s Connect
+### 📫 Let’s Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oatiffer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oatiffer)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oatiffer&show_icons=true&theme=github_dark)
 
