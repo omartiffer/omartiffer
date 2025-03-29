@@ -38,7 +38,8 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 #### 🐧 OS & Tools
 
-![Ubuntu](https://img.shields.io/badge/Linux-Primary%20OS-FCC624?style=flat&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Linux-Deployed%20%26%20Configured-FCC624?style=flat&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Primary%20OS-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Daily%20Use-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 #### 🎨 Frontend
