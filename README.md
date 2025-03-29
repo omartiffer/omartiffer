@@ -7,7 +7,7 @@ I'm an experienced IT professional with a strong background in infrastructure, s
 ### 🌱 What I’m Working On
 
 - Studying for the **AWS Solutions Architect Associate** certification
-- Going deeper with **Git**
+- Going deeper with **Git** - [Git commands quick reference](./git-quick-reference.md)
 - Exploring **Astro** to update my (very outdated) personal website
 - Practicing cloud infrastructure patterns through hands-on labs and projects
 - Strengthening my scripting and automation skills with **Python** and **Bash**
