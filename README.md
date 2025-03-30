@@ -102,7 +102,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oatiffer&layout=compact&langs_count=10&theme=github_dark)
 
-![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=oatiffer&text=profile_views&style=for-the-badge&lcolor=0d1117&logo=Github&hit=off    )
+![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=oatiffer&text=profile_views&style=for-the-badge&lcolor=20232A&logo=Github)
 
 ---
 
