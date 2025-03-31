@@ -22,7 +22,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ![AWS](https://img.shields.io/badge/AWS-Learning-gray?message=test&labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Learning-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware%20Vsphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
 ![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
 ![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20Servers-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=1BA0D7&style=flat&logo=cisco&logoColor=white)
 ![Lenovo](https://img.shields.io/badge/Lenovo%20Servers-Presales%20Experience-gray?labelColor=E2231A&style=flat&logo=lenovo&logoColor=white)
