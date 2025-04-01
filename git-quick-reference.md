@@ -18,7 +18,7 @@ This document is a personal reference of Git commands I've learned and used. It 
 - [Branching](#branching)
 - [Merge, Rebase, Squash, and Cherry-picking](#merge-rebase-squash-and-cherry-picking)
 - [Remotes](#remotes)
-- [Identifying bad code](#identifying-bad-code)
+- [Identifying bad code (bisect)](#identifying-bad-code-bisect)
 - [Configuration](#configuration)
 - [Submodules](#submodules)
 - [Miscelaneous](#misc)
