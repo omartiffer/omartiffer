@@ -170,7 +170,7 @@ This document is a personal reference of Git commands I've learned and used. It 
 
 ---
 
-### Identifying bad code
+### Identifying bad code (bisect)
 
 `git bisect start` - Start the bisect process.
 
@@ -194,13 +194,17 @@ This document is a personal reference of Git commands I've learned and used. It 
 
 `git config --list` - Show all git configuration values.
 
-`git config --list --show-origin` - Show all git configuration values and the file (level) where they are defined.
+`git config --list --show-scope` - Show all git configuration values and the scope (level) where they are defined.
+
+`git config --list --show-origin` - Show all git configuration values and the file where they are defined.
 
 `git config <section>.<key>` - Show the value for the specified configuration section and key.
 
-`git config --local|--global|--system --unset <section>.<key>` - Remove value for the specified key in the specified section at the specified level.
+`git config --local|--global|--system --unset <section>.<key>` - Remove the value for the specified key in the specified section at the specified level.
 
-`git config --local|--global|--system --edit` - Edit configuration at the specified level (opens up the corresponding configuraion file in the default editor).
+`git config --local|--global|--system --remove-section <section_name>` - Remove the specified configuration section at the specified level.
+
+`git config --local|--global|--system --edit` - Edit configuration at the specified level (opens up the corresponding configuraion file on the default editor).
 
 `git config --local|--global|--system --remove-section <section>` - Remove the specified section at the specified level.
 
