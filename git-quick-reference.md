@@ -186,6 +186,8 @@ This document is a personal reference of Git commands I've learned and used. It 
 
 `git bisect reset` - End bisect process.
 
+[🔼 Back to top](#git-commands-quick-reference)
+
 ---
 
 ### Configuration
