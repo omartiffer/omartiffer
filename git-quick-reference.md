@@ -18,7 +18,9 @@ This document is a personal reference of Git commands I've learned and used. It 
 - [Branching](#branching)
 - [Merge, Rebase, Squash, and Cherry-picking](#merge-rebase-squash-and-cherry-picking)
 - [Remotes](#remotes)
+- [Identifying bad code](#identifying-bad-code)
 - [Configuration](#configuration)
+- [Submodules](#submodules)
 - [Miscelaneous](#misc)
 ### 2. [Git Plumbing Commands](#git-plumbing-commands)
 ### 3. [Commit Message Best Practices](#commit-message-best-practices)
@@ -168,6 +170,24 @@ This document is a personal reference of Git commands I've learned and used. It 
 
 ---
 
+### Identifying bad code
+
+`git bisect start` - Start the bisect process.
+
+`git bisect good <commit_hash` - Specify good commit (start commit for the bisect process).
+
+`git bisect bad <commit_hash>` - Specify good commit (end commit for the bisect process).
+
+`git bisect good` - Clasify a commit as good during the bisect process.
+
+`git bisect bad` - Clasify a commit as bad during the bisect process.
+
+`git bisect run <test_suit_command` - Automatically evaluate commits by leveraging our test suite to clasify commits as either good or bad. For example `git bisect run npm test`.
+
+`git bisect reset` - End bisect process.
+
+---
+
 ### Configuration
 
 `git config --local|--global|--system <section>.<key> <value>` - Configure the specified key-value pair within the specified configuration section (user, core, etc.). `--local` is equivalent to the repo level, `--global` is equivalent to the OS user level, and `--system` is equivalent to the git installation level.
@@ -189,6 +209,8 @@ This document is a personal reference of Git commands I've learned and used. It 
 `git config --global diff.submodule log` - Tell git to enable submodule summaries when running diffs.
 
 `git config --global push.recurseSubmodules on-demand` - Automatically push any changes from submodules to the remote when pushing from the parent repo.
+
+`git config --local core.hooksPath .<dir_name>` - Specify a different location within the repo for git to look for hooks (.git directory by default).
 
 [🔼 Back to top](#git-commands-quick-reference)
 
