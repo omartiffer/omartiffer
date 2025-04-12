@@ -58,7 +58,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ![Node.js](https://img.shields.io/badge/Node.js-gray?labelColor=5FA04E&style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-gray?labelColor=000000&style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-gray?labelColor=777BB4&style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-gray?labelColor=777BB4&style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-gray?labelColor=FF2D20&style=flat&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-gray?labelColor=47A248&style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-gray?labelColor=880000&style=flat&logo=mongoose&logoColor=white)
