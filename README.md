@@ -6,11 +6,9 @@ I'm an experienced IT professional with a solid background in infrastructure, sy
 
 ### 🌱 What I’m Working On
 
+- Updating my (very outdated) personal website with **[Astro](https://astro.build)**
 - Preparing for the **AWS Solutions Architect Associate** certification
 - Going deeper with **Git** - [Git commands quick reference](./git-quick-reference.md)
-- Exploring **Astro** to update my (very outdated) personal website
-- Practicing cloud infrastructure patterns through hands-on labs and small projects
-- Sharpening my scripting and automation skills with **Python** and **Bash**
 
 ---
 
@@ -22,6 +20,8 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ![AWS](https://img.shields.io/badge/AWS-Learning-gray?message=test&labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Learning-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Domain%20Hosting%20/%20Personal%20Projects-gray?labelColor=F96702&style=flat&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Project-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
 ![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
 ![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20Servers-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=1BA0D7&style=flat&logo=cisco&logoColor=white)
@@ -65,7 +65,6 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![MySQL](https://img.shields.io/badge/MySQL-gray?labelColor=4479A1&style=flat&logo=mysql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-gray?labelColor=4FC08D&style=flat&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-gray?labelColor=20232A&style=flat&logo=angular&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-gray?labelColor=D24939&style=flat&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-gray?labelColor=DD3A0A&style=flat&logo=postman&logoColor=white)
 
@@ -91,8 +90,8 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ### 📫 Let’s Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:oatiffer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?labelColor=&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oatiffer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?labelColor=&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omartiffer)
 
 ---
 
