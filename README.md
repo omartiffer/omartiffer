@@ -90,7 +90,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ### 📫 Let’s Connect
 
-[![E-mail](https://img.shields.io/badge/E-mail-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.cloud)
+[![E-mail](https://img.shields.io/badge/Email-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?labelColor=&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omartiffer)
 
 ---
