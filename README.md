@@ -38,9 +38,15 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 #### 🐧 OS & Tools
 
-![Ubuntu](https://img.shields.io/badge/Linux-Deployed%20%26%20Configured-gray?labelColor=FCC624&style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Deployed%20%26%20Configured-gray?labelColor=FCC624&style=flat&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Primary%20OS-gray?labelColor=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Daily%20Use-gray?labelColor=4EAA25&style=flat&logo=gnubash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-Daily%20Use-gray?labelColor=F15A24&style=flat&logo=zsh&logoColor=white)
+![Tmux](https://img.shields.io/badge/Tmux-Daily%20Use-gray?labelColor=1BB91F&style=flat&logo=tmux&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-Daily%20Use-gray?labelColor=F46D01&style=flat&logo=alacritty&logoColor=white)
+![Starship](https://img.shields.io/badge/Starship-Daily%20Use-gray?labelColor=DD0B78&style=flat&logo=starship&logoColor=white)
+# ![Neovim](https://img.shields.io/badge/Neovim-Daily%20Use-gray?labelColor=57A143&style=flat&logo=neovim&logoColor=white)
+
 
 #### 🎨 Frontend
 
