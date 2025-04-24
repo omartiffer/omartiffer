@@ -6,7 +6,11 @@ I'm an experienced IT professional with a solid background in infrastructure, sy
 
 ### 🌱 What I’m Working On
 
-- Updating my (very outdated) personal website with **[Astro](https://astro.build)**
+**Now:**
+- Learning shell scripting as I work on my [.dotfiles](https://github.com/oatiffer/.dotfiles)
+
+**Ongoing:**
+- Updating my (very outdated) personal website with [Astro](https://astro.build)
 - Preparing for the **AWS Solutions Architect Associate** certification
 - Going deeper with **Git** - [Git commands quick reference](./git-quick-reference.md)
 
@@ -43,7 +47,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![Bash](https://img.shields.io/badge/Bash-Daily%20Use-gray?labelColor=4EAA25&style=flat&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-Daily%20Use-gray?labelColor=F15A24&style=flat&logo=zsh&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-Daily%20Use-gray?labelColor=1BB91F&style=flat&logo=tmux&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-Daily%20Use-gray?labelColor=F46D01&style=flat&logo=alacritty&logoColor=white)
+![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-Daily%20Use-gray?labelColor=0d1431&style=flat&logo=ghostty-ok&logoColor=white)
 ![Starship](https://img.shields.io/badge/Starship-Daily%20Use-gray?labelColor=DD0B78&style=flat&logo=starship&logoColor=white)
 
 #### 🎨 Frontend
