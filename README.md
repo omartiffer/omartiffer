@@ -25,7 +25,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![AWS](https://img.shields.io/badge/AWS-Learning-gray?message=test&labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Learning-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Domain%20Hosting%20/%20Personal%20Projects-gray?labelColor=F96702&style=flat&logo=cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Project-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Projects-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Deployed%20%26%20Configured-gray?labelColor=FCC624&style=flat&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
 ![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
@@ -45,7 +45,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 #### 🐧 OS & Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Primary%20OS-gray?labelColor=E95420&style=flat&logo=ubuntu&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-Primary%20Editor-gray?labelColor=57A143&style=flat&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-Primary%20Editor%20%28btw%29-gray?labelColor=57A143&style=flat&logo=neovim&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-Daily%20Use-gray?labelColor=F15A24&style=flat&logo=zsh&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-Daily%20Use-gray?labelColor=1BB91F&style=flat&logo=tmux&logoColor=white)
 ![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-Daily%20Use-gray?labelColor=0d1431&style=flat&logo=ghostty-ok&logoColor=white)
