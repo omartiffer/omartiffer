@@ -1,26 +1,27 @@
-# 👋 Hi everyone!
+# 👋 Hi everyone
 
 I'm an experienced IT professional with a solid background in infrastructure, systems administration, and virtualization. I'm now transitioning into **Cloud Engineering** and **DevOps**, with a focus on building modern, scalable, and automated infrastructure.
 
 ---
 
-### 🌱 What I’m Working On
+## 🌱 What I’m Working On
 
 **Now:**
-- Learning shell scripting as I work on my [.dotfiles](https://github.com/oatiffer/.dotfiles)
+
+- Preparing for the **AWS Solutions Architect Associate** certification
 
 **Ongoing:**
+
 - Updating my (very outdated) personal website with [Astro](https://astro.build)
-- Preparing for the **AWS Solutions Architect Associate** certification
-- Going deeper with **Git** - [Git commands quick reference](./git-quick-reference.md)
+- Going deeper with **Git** - [Git commands quick reference](/git-quick-reference.md)
 
 ---
 
-### 👨‍💻 Tech Stack
+## 👨‍💻 Tech Stack
 
 Here’s a quick overview of technologies I've worked with, including what I’ve used professionally, what I’m currently learning, and tech I've explored out of curiosity or just for fun.
 
-#### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-Learning-gray?message=test&labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Learning-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
@@ -33,8 +34,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![Lenovo](https://img.shields.io/badge/Lenovo%20Servers-Presales%20Experience-gray?labelColor=E2231A&style=flat&logo=lenovo&logoColor=white)
 ![F5](https://img.shields.io/badge/F5%20Networks-Load%20Balancing%20Experience-gray?labelColor=E4002B&style=flat&logo=f5&logoColor=white)
 
-
-#### 🛠 Automation & DevOps
+### 🛠 Automation & DevOps
 
 ![Python](https://img.shields.io/badge/Python-Comfortable-gray?labelColor=3776AB&style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-Comfortable-gray?labelColor=4EAA25&style=flat&logo=gnubash&logoColor=white)
@@ -42,7 +42,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learning-gray?labelColor=2088FF&style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Daily%20Use-gray?labelColor=F05032&style=flat&logo=git&logoColor=white)
 
-#### 🐧 OS & Tools
+### 🐧 OS & Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Primary%20OS-gray?labelColor=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-Primary%20Editor%20%28btw%29-gray?labelColor=57A143&style=flat&logo=neovim&logoColor=white)
@@ -51,7 +51,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-Daily%20Use-gray?labelColor=0d1431&style=flat&logo=ghostty-ok&logoColor=white)
 ![Starship](https://img.shields.io/badge/Starship-Daily%20Use-gray?labelColor=DD0B78&style=flat&logo=starship&logoColor=white)
 
-#### 🎨 Frontend
+### 🎨 Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Some%20Experience-gray?labelColor=F7DF1E&style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Some%20Experience-gray?labelColor=3178C6&style=flat&logo=typescript&logoColor=white)
@@ -63,7 +63,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![Sass](https://img.shields.io/badge/Sass-Familiar-gray?labelColor=CC6699&style=flat&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-Familiar-gray?labelColor=0769AD&style=flat&logo=jquery&logoColor=white)
 
-#### 🔍 Things I've tinkered with (I'm curious)
+### 🔍 Things I've tinkered with (I'm curious)
 
 ![Node.js](https://img.shields.io/badge/Node.js-gray?labelColor=5FA04E&style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-gray?labelColor=000000&style=flat&logo=express&logoColor=white)
@@ -79,7 +79,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-### 🧰 Background Snapshot
+## 🧰 Background Snapshot
 
 - 15+ years in IT working with on-prem, bare-metal, and virtualized environments
 - Experience with Linux systems, VMware, servers, L2 networking, and storage (both hands-on and in solution design)
@@ -88,7 +88,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-### 🚀 Goals
+## 🚀 Goals
 
 - Become a **Cloud Infrastructure Engineer** with expertise in automation and cloud-native tooling
 - Progressively build skills in **DevOps**
@@ -97,21 +97,21 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Let’s Connect
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?labelColor=&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omartiffer)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oatiffer&show_icons=true&theme=github_dark)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oatiffer&show_icons=true&theme=github_dark&cache-seconds=)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oatiffer&exclude_repo=nerdify_webdev&layout=compact&langs_count=8&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oatiffer&exclude_repo=nerdify_webdev&layout=compact&langs_count=8&theme=github_dark&cache-seconds=)
 
 <!-- ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=oatiffer&text=profile_views&style=for-the-badge&lcolor=20232A&logo=Github) -->
 
 ---
 
-*Thanks for stopping by! I’ll be updating this profile as I continue my cloud journey.* 
+_Thanks for stopping by! I’ll be updating this profile as I continue my cloud journey._
