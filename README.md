@@ -27,6 +27,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 ![Terraform](https://img.shields.io/badge/Terraform-Learning-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Domain%20Hosting%20/%20Personal%20Projects-gray?labelColor=F96702&style=flat&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Projects-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-Email%20Hosting-gray?labelColor=EA4335&style=flat&logo=gmail&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Deployed%20%26%20Configured-gray?labelColor=FCC624&style=flat&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
 ![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
@@ -38,9 +39,9 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ![Python](https://img.shields.io/badge/Python-Comfortable-gray?labelColor=3776AB&style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-Comfortable-gray?labelColor=4EAA25&style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Daily%20Use-gray?labelColor=F05032&style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Learning-gray?labelColor=2496ED&style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learning-gray?labelColor=2088FF&style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Daily%20Use-gray?labelColor=F05032&style=flat&logo=git&logoColor=white)
 
 ### 🐧 OS & Tools
 
