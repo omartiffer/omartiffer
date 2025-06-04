@@ -36,10 +36,10 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ### 🛠 Automation & DevOps
 
+![Docker](https://img.shields.io/badge/Docker-Comfortable-gray?labelColor=2496ED&style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Comfortable-gray?labelColor=3776AB&style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-Comfortable-gray?labelColor=4EAA25&style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Daily%20Use-gray?labelColor=F05032&style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Comfortable-gray?labelColor=2496ED&style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learning-gray?labelColor=2088FF&style=flat&logo=githubactions&logoColor=white)
 
 ### 🐧 OS & Tools
