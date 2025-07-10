@@ -106,9 +106,9 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oatiffer&show_icons=true&theme=github_dark&cache-seconds=)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omartiffer&show_icons=true&theme=github_dark&cache-seconds=)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oatiffer&exclude_repo=nerdify_webdev&layout=compact&langs_count=8&theme=github_dark&cache-seconds=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omartiffer&exclude_repo=nerdify_webdev&layout=compact&langs_count=8&theme=github_dark&cache-seconds=)
 
 <!-- ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=oatiffer&text=profile_views&style=for-the-badge&lcolor=20232A&logo=Github) -->
 
