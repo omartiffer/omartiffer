@@ -1,6 +1,6 @@
 # 👋 Hi everyone
 
-I'm an experienced IT professional with a solid background in infrastructure, systems administration, and virtualization. I'm now transitioning into **Cloud Engineering** and **DevOps**, with a focus on building modern, scalable, and automated infrastructure.
+I'm an experienced IT professional with a background in infrastructure, systems administration, and virtualization. Lately, I've been exploring Cloud technologies and DevOps practices as I look for ways to connect my infrastructure experience with programming and automation.
 
 ---
 
