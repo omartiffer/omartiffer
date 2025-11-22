@@ -88,7 +88,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-## 🚀 Goals
+<!-- ## 🚀 Goals
 
 - Become a **Cloud Infrastructure Engineer** with expertise in automation and cloud-native tooling
 - Progressively build skills in **DevOps**
@@ -96,7 +96,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 - Join a team where I can grow and contribute to cloud-native environments
 
 ---
-
+-->
 ## 📫 Let’s Connect
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.cloud)
