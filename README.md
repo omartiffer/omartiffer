@@ -4,18 +4,6 @@ I'm an experienced IT professional with a background in infrastructure, systems 
 
 ---
 
-## 🌱 What I’m Working On
-
-**Now:**
-
-- Preparing for the **AWS Solutions Architect Associate** certification
-
-**Ongoing:**
-
-- Tinkering with Go (this could be the one!)
-
----
-
 ## 👨‍💻 Tech Stack
 
 Here’s a quick overview of technologies I've worked with, including what I’ve used professionally, what I’m currently learning, and tech I've explored out of curiosity or just for fun.
