@@ -90,7 +90,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 [![E-mail](https://img.shields.io/badge/Email-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?labelColor=&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omartiffer)
 
----
+<!---
 
 ## 📊 GitHub Stats
 
@@ -98,7 +98,7 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omartiffer&exclude_repo=nerdify_webdev&layout=compact&langs_count=8&theme=github_dark&cache-seconds=)
 
-<!-- ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=oatiffer&text=profile_views&style=for-the-badge&lcolor=20232A&logo=Github) -->
+![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=oatiffer&text=profile_views&style=for-the-badge&lcolor=20232A&logo=Github) -->
 
 ---
 
