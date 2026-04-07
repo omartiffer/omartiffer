@@ -10,17 +10,17 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ### ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-Learning-gray?message=test&labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Learning-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Domain%20Hosting%20/%20Personal%20Projects-gray?labelColor=F96702&style=flat&logo=cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Projects-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-Email%20Hosting-gray?labelColor=EA4335&style=flat&logo=gmail&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/AWS-Learning-gray?message=test&labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Learning-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white) -->
 ![Linux](https://img.shields.io/badge/Linux-Deployed%20%26%20Configured-gray?labelColor=FCC624&style=flat&logo=linux&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Domain%20Hosting%20/%20Personal%20Projects-gray?labelColor=F96702&style=flat&logo=cloudflare&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-Email%20Hosting-gray?labelColor=EA4335&style=flat&logo=gmail&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Projects-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
+<!-- ![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
 ![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
 ![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20Servers-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=1BA0D7&style=flat&logo=cisco&logoColor=white)
 ![Lenovo](https://img.shields.io/badge/Lenovo%20Servers-Presales%20Experience-gray?labelColor=E2231A&style=flat&logo=lenovo&logoColor=white)
-![F5](https://img.shields.io/badge/F5%20Networks-Load%20Balancing%20Experience-gray?labelColor=E4002B&style=flat&logo=f5&logoColor=white)
+![F5](https://img.shields.io/badge/F5%20Networks-Load%20Balancing%20Experience-gray?labelColor=E4002B&style=flat&logo=f5&logoColor=white) -->
 
 ### 🛠 Automation & DevOps
 
@@ -76,15 +76,6 @@ Here’s a quick overview of technologies I've worked with, including what I’v
 
 ---
 
-<!-- ## 🚀 Goals
-
-- Become a **Cloud Infrastructure Engineer** with expertise in automation and cloud-native tooling
-- Progressively build skills in **DevOps**
-- Build a portfolio of real-world infrastructure and automation projects
-- Join a team where I can grow and contribute to cloud-native environments
-
----
--->
 ## 📫 Let’s Connect
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.dev)
