@@ -10,10 +10,10 @@ Here’s a quick overview of technologies I’ve worked with, including what I u
 
 ### 🐍 Data & Automation
 
-![Python](https://img.shields.io/badge/Python-Daily%20Use-gray?labelColor=3776AB&style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Daily%20Use-gray?labelColor=4479A1&style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Daily%20Use-gray?labelColor=F05032&style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Daily%20Use-gray?labelColor=DD3A0A&style=flat&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Professional%20Use-gray?labelColor=3776AB&style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Professional%20Use-gray?labelColor=4479A1&style=flat&logo=&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Professional%20Use-gray?labelColor=F05032&style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Professional%20Use-gray?labelColor=DD3A0A&style=flat&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-Professional%20Use-gray?labelColor=2EAD33&style=flat&logo=playwright&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-Comfortable-gray?labelColor=4EAA25&style=flat&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Comfortable-gray?labelColor=2496ED&style=flat&logo=docker&logoColor=white)
@@ -22,11 +22,11 @@ Here’s a quick overview of technologies I’ve worked with, including what I u
 ### ☁️ Infrastructure & Cloud
 
 ![Linux](https://img.shields.io/badge/Linux-Deployed%20%26%20Configured-gray?labelColor=FCC624&style=flat&logo=linux&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Familiar-gray?labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Familiar-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Comfortable-gray?labelColor=FF9900&style=flat&logo=amazonwebservices&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Domain%20Hosting%20/%20Personal%20Projects-gray?labelColor=F96702&style=flat&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Projects-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware%20vSphere-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=20232A&style=flat&logo=vmware&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Familiar-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
 
 <!-- ![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
 ![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20Servers-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=1BA0D7&style=flat&logo=cisco&logoColor=white)
@@ -40,7 +40,7 @@ Here’s a quick overview of technologies I’ve worked with, including what I u
 ![React](https://img.shields.io/badge/React-Professional%20Experience-gray?labelColor=61DAFB&style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-Professional%20Experience-gray?labelColor=764ABC&style=flat&logo=redux&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-Professional%20Experience-gray?labelColor=6E9F18&style=flat&logo=vitest&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Professional%20Experience-gray?labelColor=06B6D4&style=flat&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Professional%20Experience-gray?labelColor=06B6D4&style=flat&logo=tailwindcss&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-Personal%20Projects-gray?labelColor=BC52EE&style=flat&logo=astro&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-Familiar-gray?labelColor=CC6699&style=flat&logo=sass&logoColor=white)
 
@@ -70,7 +70,7 @@ Here’s a quick overview of technologies I’ve worked with, including what I u
 
 ## 🧰 Background Snapshot
 
-- Data Migration Specialist — ETL pipelines, Python scripting, SQL data transformation, REST API automation, and browser automation with Playwright for migrating law firms into SaaS platforms
+- Data Migration Specialist, migrating law firms from legacy practice-management systems into SaaS platforms using Python, SQL, REST APIs, ETL pipelines, and Playwright for browser automation
 - 15+ years in IT working with on-prem, bare-metal, and virtualized environments
 - Experience with Linux systems, VMware, servers, L2 networking, and storage (both hands-on and in solution design)
 - Spent a year working professionally as a Frontend Developer with React, Redux, and Vitest 🤷‍♂️🤹‍♂️
