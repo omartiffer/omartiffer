@@ -1,6 +1,6 @@
 # 👋 Hi everyone
 
-I'm a Data Migration Specialist with 15+ years of IT experience spanning bare-metal infrastructure, virtualization, and frontend development. Currently focused on ETL pipelines, Python scripting, SQL data transformation, and REST API automation — migrating law firms from legacy practice-management systems into modern SaaS platforms.
+I'm a Data Migration Specialist with 15+ years of IT experience spanning bare-metal infrastructure, virtualization, and frontend development. Currently focused on ETL pipelines, Python scripting, SQL data transformation, and REST API automation, migrating law firms from legacy practice-management systems into modern SaaS platforms.
 
 ---
 
