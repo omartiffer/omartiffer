@@ -27,10 +27,11 @@ Here’s a quick overview of technologies I’ve worked with, including what I u
 ![Terraform](https://img.shields.io/badge/Terraform-Familiar-gray?labelColor=844FBA&style=flat&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Domain%20Hosting%20/%20Personal%20Projects-gray?labelColor=F96702&style=flat&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Deployments%20/%20Personal%20Projects-gray?labelColor=00C7B7&style=flat&logo=netlify&logoColor=white)
-![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
+
+<!-- ![Dell](https://img.shields.io/badge/Dell%20Servers%20%26%20Storage-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=007DB8&style=flat&logo=dell&logoColor=white)
 ![Cisco UCS](https://img.shields.io/badge/Cisco%20UCS%20Servers-Deployed%20%26%20Configured%20/%20Presales-gray?labelColor=1BA0D7&style=flat&logo=cisco&logoColor=white)
 ![Lenovo](https://img.shields.io/badge/Lenovo%20Servers-Presales%20Experience-gray?labelColor=E2231A&style=flat&logo=lenovo&logoColor=white)
-![F5](https://img.shields.io/badge/F5%20Networks-Load%20Balancing%20Experience-gray?labelColor=E4002B&style=flat&logo=f5&logoColor=white)
+![F5](https://img.shields.io/badge/F5%20Networks-Load%20Balancing%20Experience-gray?labelColor=E4002B&style=flat&logo=f5&logoColor=white) -->
 
 ### 🎨 Frontend
 
@@ -76,20 +77,10 @@ Here’s a quick overview of technologies I’ve worked with, including what I u
 
 ---
 
-<!-- ## 🚀 Goals
-
-- Become a **Cloud Infrastructure Engineer** with expertise in automation and cloud-native tooling
-- Progressively build skills in **DevOps**
-- Build a portfolio of real-world infrastructure and automation projects
-- Join a team where I can grow and contribute to cloud-native environments
-
----
--->
 ## 📫 Let’s Connect
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?labelColor=&style=flat&logo=gmail&logoColor=white)](mailto:me@omartiffer.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?labelColor=&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omartiffer)
-
 
 ## 📊 GitHub Stats
 
