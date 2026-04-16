@@ -47,7 +47,8 @@ Here’s a quick overview of technologies I’ve worked with, including what I u
 ### 🐧 OS & Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Primary%20OS-gray?labelColor=E95420&style=flat&logo=ubuntu&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-Primary%20Editor%20%28btw%29-gray?labelColor=57A143&style=flat&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Primary%20Editor-gray?labelColor=007ACC&style=flat&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-Daily%20Use-gray?labelColor=57A143&style=flat&logo=neovim&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-Daily%20Use-gray?labelColor=F15A24&style=flat&logo=zsh&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-Daily%20Use-gray?labelColor=1BB91F&style=flat&logo=tmux&logoColor=white)
 ![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-Daily%20Use-gray?labelColor=0d1431&style=flat&logo=ghostty-ok&logoColor=white)
